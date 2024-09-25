@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mamonewimer/React_Student_MySQL/static/css/main.d221dc40.css",
+    "main.js": "/mamonewimer/React_Student_MySQL/static/js/main.708eeb77.js",
+    "index.html": "/mamonewimer/React_Student_MySQL/index.html",
+    "main.d221dc40.css.map": "/mamonewimer/React_Student_MySQL/static/css/main.d221dc40.css.map",
+    "main.708eeb77.js.map": "/mamonewimer/React_Student_MySQL/static/js/main.708eeb77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.708eeb77.js"
+  ]
+}
